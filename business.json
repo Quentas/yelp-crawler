@@ -1,0 +1,1630 @@
+[
+    {
+        "name": "Da Andrea - Greenwich Village",
+        "rating": "4.3",
+        "reviews_count": "2.2k reviews",
+        "yelp_url": "https://www.yelp.com/biz/da-andrea-greenwich-village-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Rachel R.",
+                "reviewer_location": "Bloomfield, NJ",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Sophia O.",
+                "reviewer_location": "Brecksville, OH",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Tatiana M.",
+                "reviewer_location": "Centennial Park District, Atlanta, GA",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Maria J L.",
+                "reviewer_location": "Providence, RI",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Lanny H.",
+                "reviewer_location": "Cerritos, CA",
+                "review_date": "6 days ago"
+            }
+        ],
+        "website": "daandreanyc.com"
+    },
+    {
+        "name": "Juliana’s",
+        "rating": "4.4",
+        "reviews_count": "2.7k reviews",
+        "yelp_url": "https://www.yelp.com/biz/julianas-brooklyn-3?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Jenny T.",
+                "reviewer_location": "Los Angeles, CA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Susan H.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Rashid B.",
+                "reviewer_location": "Staten Island, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Anthony S.",
+                "reviewer_location": "Sacramento, CA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Wai L.",
+                "reviewer_location": "Stony Brook, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "julianaspizza.com"
+    },
+    {
+        "name": "Time Out Market New York",
+        "rating": "4.0",
+        "reviews_count": "558 reviews",
+        "yelp_url": "https://www.yelp.com/biz/time-out-market-new-york-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Julie B.",
+                "reviewer_location": "Irvine, CA",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Bonnie G.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Kristle J.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Janet D.",
+                "reviewer_location": "Los Angeles, CA",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Nadine A.",
+                "reviewer_location": "Atlanta, GA",
+                "review_date": "No answers yet."
+            }
+        ],
+        "website": "timeoutmarket.com/newyork"
+    },
+    {
+        "name": "Kalye",
+        "rating": "4.6",
+        "reviews_count": "172 reviews",
+        "yelp_url": "https://www.yelp.com/biz/kalye-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Julian M.",
+                "reviewer_location": "New York, NY",
+                "review_date": "2 months ago"
+            },
+            {
+                "reviewer_name": "Alex M.",
+                "reviewer_location": "New York, NY",
+                "review_date": "2 months ago"
+            },
+            {
+                "reviewer_name": "Jacklyn W.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "2 months ago"
+            },
+            {
+                "reviewer_name": "Bloss C.",
+                "reviewer_location": "Jersey City, NJ",
+                "review_date": "2 months ago"
+            },
+            {
+                "reviewer_name": "Jennifer V.",
+                "reviewer_location": "Montvale, NJ",
+                "review_date": "2 months ago"
+            }
+        ],
+        "website": "kalye.com"
+    },
+    {
+        "name": "Rubirosa",
+        "rating": "4.3",
+        "reviews_count": "3.3k reviews",
+        "yelp_url": "https://www.yelp.com/biz/rubirosa-new-york-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Samantha L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "3 months ago"
+            },
+            {
+                "reviewer_name": "Donna B.",
+                "reviewer_location": "San Francisco, CA",
+                "review_date": "3 months ago"
+            },
+            {
+                "reviewer_name": "Lindsey P.",
+                "reviewer_location": "Phoenix, AZ",
+                "review_date": "3 months ago"
+            },
+            {
+                "reviewer_name": "Julia J.",
+                "reviewer_location": "New York, NY",
+                "review_date": "3 months ago"
+            },
+            {
+                "reviewer_name": "Giselle S.",
+                "reviewer_location": "New York, NY",
+                "review_date": "3 months ago"
+            }
+        ],
+        "website": "rubirosanyc.com"
+    },
+    {
+        "name": "Sukh",
+        "rating": "5.0",
+        "reviews_count": "10 reviews",
+        "yelp_url": "https://www.yelp.com/biz/sukh-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Tanyarat C.",
+                "reviewer_location": "Queens, Queens, NY",
+                "review_date": "Mar 7, 2024"
+            },
+            {
+                "reviewer_name": "Rich J.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 7, 2024"
+            },
+            {
+                "reviewer_name": "Elizabeth H.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 7, 2024"
+            },
+            {
+                "reviewer_name": "Aey H.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 7, 2024"
+            },
+            {
+                "reviewer_name": "Araya M.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 7, 2024"
+            }
+        ],
+        "website": "sukhnyc.com"
+    },
+    {
+        "name": "Cafe Mogador",
+        "rating": "4.4",
+        "reviews_count": "1.5k reviews",
+        "yelp_url": "https://www.yelp.com/biz/cafe-mogador-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Elad N.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Joe C.",
+                "reviewer_location": "Sugar Land, TX",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Fawn G.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "JiHae L.",
+                "reviewer_location": "Sunnyside, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Pooja P.",
+                "reviewer_location": "Chicago, IL",
+                "review_date": "No answers yet."
+            }
+        ],
+        "website": "cafemogador.com"
+    },
+    {
+        "name": "Kong Sihk Tong 港食堂",
+        "rating": "4.1",
+        "reviews_count": "831 reviews",
+        "yelp_url": "https://www.yelp.com/biz/kong-sihk-tong-%E6%B8%AF%E9%A3%9F%E5%A0%82-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Danila S.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Mack A.",
+                "reviewer_location": "Fremont, CA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Sarah W.",
+                "reviewer_location": "Fairfax, VA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Anna D.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Hannah C.",
+                "reviewer_location": "Los Angeles, CA",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "kongsihktong.com"
+    },
+    {
+        "name": "Ye’s Apothecary",
+        "rating": "4.5",
+        "reviews_count": "574 reviews",
+        "yelp_url": "https://www.yelp.com/biz/yes-apothecary-new-york-4?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Xiaoli L.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "9 months ago"
+            },
+            {
+                "reviewer_name": "Eduard L.",
+                "reviewer_location": "SoMa, San Francisco, CA",
+                "review_date": "9 months ago"
+            },
+            {
+                "reviewer_name": "Eric S.",
+                "reviewer_location": "Harlem, New York, NY",
+                "review_date": "9 months ago"
+            },
+            {
+                "reviewer_name": "Emily L.",
+                "reviewer_location": "San Francisco, CA",
+                "review_date": "9 months ago"
+            },
+            {
+                "reviewer_name": "Cindy M.",
+                "reviewer_location": "Fort Greene, NY",
+                "review_date": "9 months ago"
+            }
+        ],
+        "website": "yesapothecary.com"
+    },
+    {
+        "name": "Wah Fung No 1",
+        "rating": "4.5",
+        "reviews_count": "2.1k reviews",
+        "yelp_url": "https://www.yelp.com/biz/wah-fung-no-1-new-york-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Amity H.",
+                "reviewer_location": "San Francisco, CA",
+                "review_date": "5 months ago"
+            },
+            {
+                "reviewer_name": "Nolan F.",
+                "reviewer_location": "Chicago, IL",
+                "review_date": "5 months ago"
+            },
+            {
+                "reviewer_name": "Charles T.",
+                "reviewer_location": "East Stroudsburg, PA",
+                "review_date": "5 months ago"
+            },
+            {
+                "reviewer_name": "Eric F.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "5 months ago"
+            },
+            {
+                "reviewer_name": "Michael S.",
+                "reviewer_location": "Newport Beach, CA",
+                "review_date": "5 months ago"
+            }
+        ],
+        "website": null
+    },
+    {
+        "name": "The Four Horsemen",
+        "rating": "4.4",
+        "reviews_count": "345 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-four-horsemen-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Allen L.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Teddy H.",
+                "reviewer_location": "Worcester, MA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Leemor Y.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Bo B.",
+                "reviewer_location": "Austin, TX",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Margaret L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "fourhorsemenbk.com"
+    },
+    {
+        "name": "Fish Cheeks",
+        "rating": "4.4",
+        "reviews_count": "1.6k reviews",
+        "yelp_url": "https://www.yelp.com/biz/fish-cheeks-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Alora A.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Thomas T.",
+                "reviewer_location": "MD, MD",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Becky L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Shika V.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Johnny N.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "fishcheeksnyc.com"
+    },
+    {
+        "name": "Her Name Is Han",
+        "rating": "4.3",
+        "reviews_count": "2k reviews",
+        "yelp_url": "https://www.yelp.com/biz/her-name-is-han-new-york-3?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Jordan U.",
+                "reviewer_location": "Fairfax, VA",
+                "review_date": "13 days ago"
+            },
+            {
+                "reviewer_name": "Peter D.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "13 days ago"
+            },
+            {
+                "reviewer_name": "Jennifer L.",
+                "reviewer_location": "Cannonborough Elliotborough, Charleston, SC",
+                "review_date": "13 days ago"
+            },
+            {
+                "reviewer_name": "Katarina L.",
+                "reviewer_location": "Whitehouse Station, NJ",
+                "review_date": "13 days ago"
+            },
+            {
+                "reviewer_name": "Vivian L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "13 days ago"
+            }
+        ],
+        "website": "hernameishan.com"
+    },
+    {
+        "name": "8282",
+        "rating": "4.6",
+        "reviews_count": "209 reviews",
+        "yelp_url": "https://www.yelp.com/biz/8282-new-york-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Gab G.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 28, 2024"
+            },
+            {
+                "reviewer_name": "Nina C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 28, 2024"
+            },
+            {
+                "reviewer_name": "Brenda L.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Mar 28, 2024"
+            },
+            {
+                "reviewer_name": "Alex M.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 28, 2024"
+            },
+            {
+                "reviewer_name": "Karen Y.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 28, 2024"
+            }
+        ],
+        "website": "eightwoeightwo.com"
+    },
+    {
+        "name": "The Cabin NYC",
+        "rating": "4.0",
+        "reviews_count": "639 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-cabin-nyc-new-york-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Floyd L.",
+                "reviewer_location": "Teaneck, NJ",
+                "review_date": "2 years ago"
+            },
+            {
+                "reviewer_name": "Nikhil R.",
+                "reviewer_location": "Howell, MI",
+                "review_date": "2 years ago"
+            },
+            {
+                "reviewer_name": "Kalpana A.",
+                "reviewer_location": "GA, GA",
+                "review_date": "2 years ago"
+            },
+            {
+                "reviewer_name": "Nic C.",
+                "reviewer_location": "Newark, DE",
+                "review_date": "2 years ago"
+            },
+            {
+                "reviewer_name": "JS F.",
+                "reviewer_location": "Irvington, NY",
+                "review_date": "2 years ago"
+            }
+        ],
+        "website": "thecabinnyc.com"
+    },
+    {
+        "name": "C as in Charlie",
+        "rating": "4.6",
+        "reviews_count": "264 reviews",
+        "yelp_url": "https://www.yelp.com/biz/c-as-in-charlie-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Sai B.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 25, 2024"
+            },
+            {
+                "reviewer_name": "Helen F.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 25, 2024"
+            },
+            {
+                "reviewer_name": "Connie G.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 25, 2024"
+            },
+            {
+                "reviewer_name": "Megan M.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 25, 2024"
+            },
+            {
+                "reviewer_name": "Theresa L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 25, 2024"
+            }
+        ],
+        "website": "c-asincharlie.com"
+    },
+    {
+        "name": "Raku",
+        "rating": "4.4",
+        "reviews_count": "1.6k reviews",
+        "yelp_url": "https://www.yelp.com/biz/raku-new-york-7?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Vu N.",
+                "reviewer_location": "Fairfax, VA",
+                "review_date": "3 days ago"
+            },
+            {
+                "reviewer_name": "Fuang C.",
+                "reviewer_location": "Bensonhurst, NY",
+                "review_date": "3 days ago"
+            },
+            {
+                "reviewer_name": "Tamara A.",
+                "reviewer_location": "New York, NY",
+                "review_date": "3 days ago"
+            },
+            {
+                "reviewer_name": "Alvin T.",
+                "reviewer_location": "Chicago, IL",
+                "review_date": "3 days ago"
+            },
+            {
+                "reviewer_name": "Brendon M.",
+                "reviewer_location": "Seattle, WA",
+                "review_date": "3 days ago"
+            }
+        ],
+        "website": "rakunyc.com"
+    },
+    {
+        "name": "Benemon",
+        "rating": "4.3",
+        "reviews_count": "723 reviews",
+        "yelp_url": "https://www.yelp.com/biz/benemon-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Nicolas L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Elena J.",
+                "reviewer_location": "Stamford, CT",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Jane D.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Owen R.",
+                "reviewer_location": "Harlem, New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Rina H.",
+                "reviewer_location": "Flushing, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "benemon.nyc"
+    },
+    {
+        "name": "Izakaya Fuku",
+        "rating": "4.4",
+        "reviews_count": "322 reviews",
+        "yelp_url": "https://www.yelp.com/biz/izakaya-fuku-jackson-heights?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Risa S.",
+                "reviewer_location": "New York, NY",
+                "review_date": "23 days ago"
+            },
+            {
+                "reviewer_name": "Melody C.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "23 days ago"
+            },
+            {
+                "reviewer_name": "Susan C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "23 days ago"
+            },
+            {
+                "reviewer_name": "Joanna M.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "23 days ago"
+            },
+            {
+                "reviewer_name": "Tina N.",
+                "reviewer_location": "Flushing, NY",
+                "review_date": "23 days ago"
+            }
+        ],
+        "website": "fukunyc.com"
+    },
+    {
+        "name": "AlMar",
+        "rating": "3.9",
+        "reviews_count": "495 reviews",
+        "yelp_url": "https://www.yelp.com/biz/almar-brooklyn-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Mónica T.",
+                "reviewer_location": "San Juan, Puerto Rico",
+                "review_date": "Apr 3, 2024"
+            },
+            {
+                "reviewer_name": "Andrew C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Apr 3, 2024"
+            },
+            {
+                "reviewer_name": "David L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Apr 3, 2024"
+            },
+            {
+                "reviewer_name": "Farah K.",
+                "reviewer_location": "Sunnyside, NY",
+                "review_date": "Apr 3, 2024"
+            },
+            {
+                "reviewer_name": "Francesca D.",
+                "reviewer_location": "Kyle, TX",
+                "review_date": "Apr 3, 2024"
+            }
+        ],
+        "website": "almardumbo.com"
+    },
+    {
+        "name": "The Frenchman’s Dough",
+        "rating": "4.3",
+        "reviews_count": "54 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-frenchmans-dough-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Seby I.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Dong K.",
+                "reviewer_location": "Jersey City, NJ",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Carin R.",
+                "reviewer_location": "JACKSON HTS, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Winnie L.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Bing R.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Nov 9, 2023"
+            }
+        ],
+        "website": "tinbuilding.com"
+    },
+    {
+        "name": "Púsù",
+        "rating": "4.6",
+        "reviews_count": "49 reviews",
+        "yelp_url": "https://www.yelp.com/biz/p%C3%BAs%C3%B9-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Joseph T.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Rosita Z.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Anumeha T.",
+                "reviewer_location": "Edgewater, NJ",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Erika T.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Tia B.",
+                "reviewer_location": "Los Angeles, CA",
+                "review_date": "Apr 4, 2024"
+            }
+        ],
+        "website": "pusuvegetarian.com"
+    },
+    {
+        "name": "Bayon",
+        "rating": "4.8",
+        "reviews_count": "13 reviews",
+        "yelp_url": "https://www.yelp.com/biz/bayon-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Wendy Y.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Jane H.",
+                "reviewer_location": "Houston, TX",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Andrew K.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Arlene W.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Jacky C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 2, 2024"
+            }
+        ],
+        "website": "bayonnyc.com"
+    },
+    {
+        "name": "Agi’s Counter",
+        "rating": "4.5",
+        "reviews_count": "93 reviews",
+        "yelp_url": "https://www.yelp.com/biz/agis-counter-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Melanie H.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Jade Z.",
+                "reviewer_location": "Somerville, MA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Emmy D.",
+                "reviewer_location": "Miami, FL",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Alexis B.",
+                "reviewer_location": "Baltimore, MD",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Alan S.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "agiscounter.com"
+    },
+    {
+        "name": "Hojokban",
+        "rating": "4.5",
+        "reviews_count": "130 reviews",
+        "yelp_url": "https://www.yelp.com/biz/hojokban-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Andrew M.",
+                "reviewer_location": "Montclair, NJ",
+                "review_date": "Mar 5, 2024"
+            },
+            {
+                "reviewer_name": "Katherine L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 5, 2024"
+            },
+            {
+                "reviewer_name": "Donna Z.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 5, 2024"
+            },
+            {
+                "reviewer_name": "Carmen L.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 5, 2024"
+            },
+            {
+                "reviewer_name": "Jin H.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 5, 2024"
+            }
+        ],
+        "website": "hojokbannyc.com"
+    },
+    {
+        "name": "Leland Eating and Drinking House",
+        "rating": "4.2",
+        "reviews_count": "89 reviews",
+        "yelp_url": "https://www.yelp.com/biz/leland-eating-and-drinking-house-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Diana B.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 12, 2024"
+            },
+            {
+                "reviewer_name": "Beril E.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Jan 12, 2024"
+            },
+            {
+                "reviewer_name": "Phuong V.",
+                "reviewer_location": "Brooklyn, Brooklyn, NY",
+                "review_date": "Jan 12, 2024"
+            },
+            {
+                "reviewer_name": "Oliver C.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 12, 2024"
+            },
+            {
+                "reviewer_name": "Ana L.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 12, 2024"
+            }
+        ],
+        "website": "lelandbrooklyn.com"
+    },
+    {
+        "name": "Nura",
+        "rating": "4.4",
+        "reviews_count": "162 reviews",
+        "yelp_url": "https://www.yelp.com/biz/nura-brooklyn-2?osq=Restaurants",
+        "reviews": [],
+        "website": null
+    },
+    {
+        "name": "The Rogue Panda",
+        "rating": "4.6",
+        "reviews_count": "65 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-rogue-panda-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Trish M.",
+                "reviewer_location": "Manhattan, New York, NY",
+                "review_date": "Mar 12, 2024"
+            },
+            {
+                "reviewer_name": "Jocelyn G.",
+                "reviewer_location": "Miami, FL",
+                "review_date": "Mar 12, 2024"
+            },
+            {
+                "reviewer_name": "Virginia D.",
+                "reviewer_location": "Santa Monica, CA",
+                "review_date": "Mar 12, 2024"
+            },
+            {
+                "reviewer_name": "Josh K.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 12, 2024"
+            },
+            {
+                "reviewer_name": "Jada Y.",
+                "reviewer_location": "Ozone Park, Queens, NY",
+                "review_date": "Mar 12, 2024"
+            }
+        ],
+        "website": "theroguepanda.com"
+    },
+    {
+        "name": "The Standard East Village",
+        "rating": "4.8",
+        "reviews_count": "4 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-standard-east-village-new-york-3?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Tricia H.",
+                "reviewer_location": "Louisville, KY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Anita H.",
+                "reviewer_location": "New Rochelle, NY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Julie C.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Caitlin B.",
+                "reviewer_location": "Binghamton, NY",
+                "review_date": "Nov 15, 2023"
+            }
+        ],
+        "website": null
+    },
+    {
+        "name": "Madeline’s",
+        "rating": "4.7",
+        "reviews_count": "9 reviews",
+        "yelp_url": "https://www.yelp.com/biz/madeline-s-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "renje g.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Danny D.",
+                "reviewer_location": "University City, Philadelphia, PA",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Conor G.",
+                "reviewer_location": "The Bronx, The Bronx, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Melissa A.",
+                "reviewer_location": "Brooklyn, Brooklyn, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "David G.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 4, 2024"
+            }
+        ],
+        "website": "madelinesnyc.com"
+    },
+    {
+        "name": "Sailor",
+        "rating": "4.5",
+        "reviews_count": "22 reviews",
+        "yelp_url": "https://www.yelp.com/biz/sailor-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Lily S.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Jan 27, 2024"
+            },
+            {
+                "reviewer_name": "Ang M.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 27, 2024"
+            },
+            {
+                "reviewer_name": "Julie B.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 27, 2024"
+            },
+            {
+                "reviewer_name": "Matteo R.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 27, 2024"
+            },
+            {
+                "reviewer_name": "Rob W.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Jan 27, 2024"
+            }
+        ],
+        "website": "sailor.nyc"
+    },
+    {
+        "name": "Gair",
+        "rating": "5.0",
+        "reviews_count": "3 reviews",
+        "yelp_url": "https://www.yelp.com/biz/gair-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Erika R.",
+                "reviewer_location": "Covina, CA",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Theressa W.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Gordon M.",
+                "reviewer_location": "Scarborough, ME",
+                "review_date": "No answers yet."
+            }
+        ],
+        "website": "gair-dumbo.com"
+    },
+    {
+        "name": "Don Angie",
+        "rating": "4.5",
+        "reviews_count": "868 reviews",
+        "yelp_url": "https://www.yelp.com/biz/don-angie-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Helen F.",
+                "reviewer_location": "New York, NY",
+                "review_date": "6 months ago"
+            },
+            {
+                "reviewer_name": "Megan L.",
+                "reviewer_location": "Austin, TX",
+                "review_date": "6 months ago"
+            },
+            {
+                "reviewer_name": "Amanda C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "6 months ago"
+            },
+            {
+                "reviewer_name": "Felisa F.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "6 months ago"
+            },
+            {
+                "reviewer_name": "Carmine M.",
+                "reviewer_location": "Manhattan, New York, NY",
+                "review_date": "6 months ago"
+            }
+        ],
+        "website": "donangie.com"
+    },
+    {
+        "name": "Calle Dao Chelsea",
+        "rating": "4.5",
+        "reviews_count": "1.1k reviews",
+        "yelp_url": "https://www.yelp.com/biz/calle-dao-chelsea-new-york-3?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Karen G.",
+                "reviewer_location": "Boston, MA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Ash B.",
+                "reviewer_location": "New York, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Dana S.",
+                "reviewer_location": "Burlington, MA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Christina R.",
+                "reviewer_location": "Paramus, NJ",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Jennifer C.",
+                "reviewer_location": "North Bergen, NJ",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "calledao.com"
+    },
+    {
+        "name": "Carlotto",
+        "rating": "4.5",
+        "reviews_count": "50 reviews",
+        "yelp_url": "https://www.yelp.com/biz/carlotto-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "James M.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Kazi T.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Flora H.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Courtney W.",
+                "reviewer_location": "San Mateo, CA",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Erin G.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 24, 2024"
+            }
+        ],
+        "website": "carlottonewyork.com"
+    },
+    {
+        "name": "The Frenchman’s Dough",
+        "rating": "4.3",
+        "reviews_count": "54 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-frenchmans-dough-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Seby I.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Dong K.",
+                "reviewer_location": "Jersey City, NJ",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Carin R.",
+                "reviewer_location": "JACKSON HTS, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Winnie L.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Nov 9, 2023"
+            },
+            {
+                "reviewer_name": "Bing R.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Nov 9, 2023"
+            }
+        ],
+        "website": "tinbuilding.com"
+    },
+    {
+        "name": "Púsù",
+        "rating": "4.6",
+        "reviews_count": "49 reviews",
+        "yelp_url": "https://www.yelp.com/biz/p%C3%BAs%C3%B9-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Joseph T.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Rosita Z.",
+                "reviewer_location": "Queens, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Anumeha T.",
+                "reviewer_location": "Edgewater, NJ",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Erika T.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Apr 4, 2024"
+            },
+            {
+                "reviewer_name": "Tia B.",
+                "reviewer_location": "Los Angeles, CA",
+                "review_date": "Apr 4, 2024"
+            }
+        ],
+        "website": "pusuvegetarian.com"
+    },
+    {
+        "name": "Bayon",
+        "rating": "4.8",
+        "reviews_count": "13 reviews",
+        "yelp_url": "https://www.yelp.com/biz/bayon-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Wendy Y.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Jane H.",
+                "reviewer_location": "Houston, TX",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Andrew K.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Arlene W.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 2, 2024"
+            },
+            {
+                "reviewer_name": "Jacky C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 2, 2024"
+            }
+        ],
+        "website": "bayonnyc.com"
+    },
+    {
+        "name": "Little Maven",
+        "rating": "4.6",
+        "reviews_count": "24 reviews",
+        "yelp_url": "https://www.yelp.com/biz/little-maven-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Mackenzie A.",
+                "reviewer_location": "Midtown East, New York, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Darlene H.",
+                "reviewer_location": "Stockton, CA",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Suzanne P.",
+                "reviewer_location": "Astoria, Queens, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Ashley Z.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 24, 2024"
+            },
+            {
+                "reviewer_name": "Christina L.",
+                "reviewer_location": "Stamford, CT",
+                "review_date": "Feb 24, 2024"
+            }
+        ],
+        "website": "littlemavenrestaurant.com"
+    },
+    {
+        "name": "Agi’s Counter",
+        "rating": "4.5",
+        "reviews_count": "93 reviews",
+        "yelp_url": "https://www.yelp.com/biz/agis-counter-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Melanie H.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Jade Z.",
+                "reviewer_location": "Somerville, MA",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Emmy D.",
+                "reviewer_location": "Miami, FL",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Alexis B.",
+                "reviewer_location": "Baltimore, MD",
+                "review_date": "1 year ago"
+            },
+            {
+                "reviewer_name": "Alan S.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "1 year ago"
+            }
+        ],
+        "website": "agiscounter.com"
+    },
+    {
+        "name": "Nura",
+        "rating": "4.4",
+        "reviews_count": "162 reviews",
+        "yelp_url": "https://www.yelp.com/biz/nura-brooklyn-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Julianne N.",
+                "reviewer_location": "San Francisco, CA",
+                "review_date": "Feb 23, 2024"
+            },
+            {
+                "reviewer_name": "Olga G.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 23, 2024"
+            },
+            {
+                "reviewer_name": "Amanda C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 23, 2024"
+            },
+            {
+                "reviewer_name": "Sarah P.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 23, 2024"
+            },
+            {
+                "reviewer_name": "Vaishnavi N.",
+                "reviewer_location": "Wood-Ridge, NJ",
+                "review_date": "Feb 23, 2024"
+            }
+        ],
+        "website": "nurabk.com"
+    },
+    {
+        "name": "The Rogue Panda",
+        "rating": "4.6",
+        "reviews_count": "65 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-rogue-panda-brooklyn?osq=Restaurants",
+        "reviews": [],
+        "website": null
+    },
+    {
+        "name": "Butler",
+        "rating": "4.2",
+        "reviews_count": "209 reviews",
+        "yelp_url": "https://www.yelp.com/biz/butler-brooklyn-2?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Liz O.",
+                "reviewer_location": "Jamaica Plain, MA",
+                "review_date": "Nov 5, 2023"
+            },
+            {
+                "reviewer_name": "Albert J.",
+                "reviewer_location": "Flatbush, New York, NY",
+                "review_date": "Nov 5, 2023"
+            },
+            {
+                "reviewer_name": "Blaire C.",
+                "reviewer_location": "San Jose, CA",
+                "review_date": "Nov 5, 2023"
+            },
+            {
+                "reviewer_name": "Emily L.",
+                "reviewer_location": "San Jose, CA",
+                "review_date": "Nov 5, 2023"
+            },
+            {
+                "reviewer_name": "Jasmin B.",
+                "reviewer_location": "Torrance, CA",
+                "review_date": "Nov 5, 2023"
+            }
+        ],
+        "website": "butler-nyc.com"
+    },
+    {
+        "name": "The Standard East Village",
+        "rating": "4.8",
+        "reviews_count": "4 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-standard-east-village-new-york-3?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Tricia H.",
+                "reviewer_location": "Louisville, KY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Anita H.",
+                "reviewer_location": "New Rochelle, NY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Julie C.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Nov 15, 2023"
+            },
+            {
+                "reviewer_name": "Caitlin B.",
+                "reviewer_location": "Binghamton, NY",
+                "review_date": "Nov 15, 2023"
+            }
+        ],
+        "website": null
+    },
+    {
+        "name": "Madeline’s",
+        "rating": "4.7",
+        "reviews_count": "9 reviews",
+        "yelp_url": "https://www.yelp.com/biz/madeline-s-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "renje g.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Danny D.",
+                "reviewer_location": "University City, Philadelphia, PA",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Conor G.",
+                "reviewer_location": "The Bronx, The Bronx, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "Melissa A.",
+                "reviewer_location": "Brooklyn, Brooklyn, NY",
+                "review_date": "Mar 4, 2024"
+            },
+            {
+                "reviewer_name": "David G.",
+                "reviewer_location": "Manhattan, NY",
+                "review_date": "Mar 4, 2024"
+            }
+        ],
+        "website": "madelinesnyc.com"
+    },
+    {
+        "name": "Gatsby’s Landing Times Square",
+        "rating": "4.3",
+        "reviews_count": "164 reviews",
+        "yelp_url": "https://www.yelp.com/biz/gatsbys-landing-times-square-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Kara D.",
+                "reviewer_location": "Biddeford, ME",
+                "review_date": "Mar 8, 2024"
+            },
+            {
+                "reviewer_name": "Dan K.",
+                "reviewer_location": "Madison, WI",
+                "review_date": "Mar 8, 2024"
+            },
+            {
+                "reviewer_name": "Gia D.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Mar 8, 2024"
+            },
+            {
+                "reviewer_name": "Vanessa N.",
+                "reviewer_location": "New Hope, PA",
+                "review_date": "Mar 8, 2024"
+            },
+            {
+                "reviewer_name": "Karen S.",
+                "reviewer_location": "Princess Anne, MD",
+                "review_date": "Mar 8, 2024"
+            }
+        ],
+        "website": "gatsbyslanding.com"
+    },
+    {
+        "name": "Thai Diner",
+        "rating": "4.1",
+        "reviews_count": "871 reviews",
+        "yelp_url": "https://www.yelp.com/biz/thai-diner-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Ashley T.",
+                "reviewer_location": "La Puente, CA",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Lizette V.",
+                "reviewer_location": "Miami, FL",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Ryan Y.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Eugene C.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Sandy D.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            }
+        ],
+        "website": "thaidiner.com"
+    },
+    {
+        "name": "Clover Hill",
+        "rating": "4.5",
+        "reviews_count": "51 reviews",
+        "yelp_url": "https://www.yelp.com/biz/clover-hill-brooklyn?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Makel D.",
+                "reviewer_location": "Washington, DC",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Priscilla F.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Jennifer B.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Asiah C.",
+                "reviewer_location": "Brooklyn, NY",
+                "review_date": "No answers yet."
+            },
+            {
+                "reviewer_name": "Kristie P.",
+                "reviewer_location": "New York, NY",
+                "review_date": "No answers yet."
+            }
+        ],
+        "website": "cloverhillbk.com"
+    },
+    {
+        "name": "Crab House All You Can Eat Seafood",
+        "rating": "4.4",
+        "reviews_count": "995 reviews",
+        "yelp_url": "https://www.yelp.com/biz/crab-house-all-you-can-eat-seafood-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Shelby T.",
+                "reviewer_location": "North Bethesda, MD",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Coletta M.",
+                "reviewer_location": "Queens, Queens, NY",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Aurora M.",
+                "reviewer_location": "KS, KS",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Captain Z.",
+                "reviewer_location": "Financial District, New York, NY",
+                "review_date": "6 days ago"
+            },
+            {
+                "reviewer_name": "Taleah A.",
+                "reviewer_location": "Maplewood, NJ",
+                "review_date": "6 days ago"
+            }
+        ],
+        "website": "crabhouseny.com"
+    },
+    {
+        "name": "The Reading Room",
+        "rating": "4.5",
+        "reviews_count": "129 reviews",
+        "yelp_url": "https://www.yelp.com/biz/the-reading-room-new-york?osq=Restaurants",
+        "reviews": [
+            {
+                "reviewer_name": "Wilkie J.",
+                "reviewer_location": "New York, NY",
+                "review_date": "Feb 17, 2024"
+            },
+            {
+                "reviewer_name": "Sue S.",
+                "reviewer_location": "Golden Valley, MN",
+                "review_date": "Feb 17, 2024"
+            },
+            {
+                "reviewer_name": "Courtney D.",
+                "reviewer_location": "Rockville Centre, NY",
+                "review_date": "Feb 17, 2024"
+            },
+            {
+                "reviewer_name": "Nehal A.",
+                "reviewer_location": "Dumont, NJ",
+                "review_date": "Feb 17, 2024"
+            },
+            {
+                "reviewer_name": "Wei H.",
+                "reviewer_location": "Dumont, NJ",
+                "review_date": "Feb 17, 2024"
+            }
+        ],
+        "website": "readingroomnyc.com"
+    }
+]
